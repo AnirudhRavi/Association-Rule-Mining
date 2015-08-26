@@ -1,0 +1,6 @@
+7 11  -> 5 	 Confidence: 30.978261
+7 5  -> 11 	 Confidence: 41.379310
+11 5  -> 7 	 Confidence: 53.395785
+7 11  -> 42 	 Confidence: 30.978261
+7 42  -> 11 	 Confidence: 47.401247
+11 42  -> 7 	 Confidence: 48.927039

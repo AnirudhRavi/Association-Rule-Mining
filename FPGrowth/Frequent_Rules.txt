@@ -1,0 +1,3 @@
+42 11  -> 7 	 Confidence: 48.927039
+42 7  -> 11 	 Confidence: 47.401247
+11 7  -> 42 	 Confidence: 30.978261
