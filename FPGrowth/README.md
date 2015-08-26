@@ -46,7 +46,7 @@ cc FPtree.c -o FPtree
 
 cc Postprocess.c -o Postprocess
 
-./Postproces
+./Postprocess
 
 [Combines all *_Frequent_Itemset into a single file All_Frequent_Itemsets.txt]
 
